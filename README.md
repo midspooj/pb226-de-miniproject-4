@@ -1,4 +1,5 @@
 # Data Handling With Polars - A COVID-19 Example
+[![CI](https://github.com/midspooj/pb226-de-miniproject-4/actions/workflows/cicd.yml/badge.svg)](https://github.com/midspooj/pb226-de-miniproject-4/actions/workflows/cicd.yml)
 
 ## Introduction
 
